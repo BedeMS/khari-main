@@ -3,6 +3,23 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 
+const htmlPages = [
+  "about",
+  "cart",
+  "man",
+  "popup",
+  "product",
+  "selection",
+  "woman",
+];
+
+const multipleHtmlPlugins = htmlPages.map((name) => {
+  return new HtmlWebpackPlugin({
+    template: `${name}.html`, // relative path to the HTML files
+    filename: `${name}.html`, // output HTML files
+  });
+});
+
 module.exports = {
   mode: "development",
   entry: {
@@ -15,15 +32,9 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: "index.html",
+      filename: "index.html",
     }),
-    new HtmlWebpackPlugin({
-      // Also generate a test.html
-      filename: "man.html",
-      template: "man.html",
-    }),
-    new MiniCssExtractPlugin({ filename: "[name].[hash].css" }),
-    new CleanWebpackPlugin(),
-  ],
+  ].concat(multipleHtmlPlugins),
   module: {
     rules: [
       {
