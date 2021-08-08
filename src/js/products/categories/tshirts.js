@@ -32,17 +32,17 @@ crew._addImages([
     black:
       "https://i.pinimg.com/originals/4e/be/50/4ebe50e2495b17a79c31e48a0e54883f.png",
     red:
-      "https://i.pinimg.com/originals/4e/be/50/4ebe50e2495b17a79c31e48a0e54883f.png",
+      "https://cdn11.bigcommerce.com/s-405b0/images/stencil/500x659/attribute_rule_images/18703440_source_1613787985.jpg",
     white:
-      "https://i.pinimg.com/originals/4e/be/50/4ebe50e2495b17a79c31e48a0e54883f.png",
+      "https://cdn11.bigcommerce.com/s-405b0/images/stencil/500x659/attribute_rule_images/12791330_source_1603493414.jpg",
     blue:
-      "https://i.pinimg.com/originals/4e/be/50/4ebe50e2495b17a79c31e48a0e54883f.png",
+      "https://cdn11.bigcommerce.com/s-405b0/images/stencil/500x659/attribute_rule_images/12791324_source_1603493412.jpg",
     yellow:
-      "https://i.pinimg.com/originals/4e/be/50/4ebe50e2495b17a79c31e48a0e54883f.png",
+      "https://cdn11.bigcommerce.com/s-405b0/images/stencil/500x659/attribute_rule_images/12791312_source_1603493407.jpg",
     green:
-      "https://i.pinimg.com/originals/4e/be/50/4ebe50e2495b17a79c31e48a0e54883f.png",
+      "https://cdn11.bigcommerce.com/s-405b0/images/stencil/500x659/attribute_rule_images/12791314_source_1603912934.jpg",
     grey:
-      "https://i.pinimg.com/originals/4e/be/50/4ebe50e2495b17a79c31e48a0e54883f.png",
+      "https://cdn11.bigcommerce.com/s-405b0/images/stencil/500x659/attribute_rule_images/12791508_source_1603913153.jpg",
   },
 ]);
 

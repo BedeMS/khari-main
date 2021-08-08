@@ -16,19 +16,19 @@ export const comfort = new Jackets("Comfort", 39, [
 comfort._addImages([
   {
     blue:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Zeta-FL-Jacket-Hyperspace.png?auto=format",
   },
   {
     yellow:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Beta-AR-Jacket-Ladon.png?auto=format",
   },
   {
     green:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Beta-AR-Jacket-Ladon.png?auto=format",
   },
   {
     grey:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Zeta-FL-Jacket-Hyperspace.png?auto=format",
   },
 ]);
 
@@ -53,23 +53,23 @@ export const graphic = new Jackets("Graphic", 54, [
 graphic._addImages([
   {
     white:
-      "https://www.nicepng.com/png/full/587-5878889_-jean-jacket-png-style-nichememe-png.png",
+      "http://cdn.shopify.com/s/files/1/2280/3581/products/Fission-SV-Jacket-Soulsonic_1200x1200.png?v=1601554397",
   },
   {
     blue:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Zeta-FL-Jacket-Hyperspace.png?auto=format",
   },
   {
     yellow:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Zeta-FL-Jacket-Hyperspace.png?auto=format",
   },
   {
     green:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Zeta-FL-Jacket-Hyperspace.png?auto=format",
   },
   {
     grey:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Beta-AR-Jacket-Ladon.png?auto=format",
   },
 ]);
 
@@ -105,19 +105,19 @@ custom._addImages([
   },
   {
     blue:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Zeta-FL-Jacket-Hyperspace.png?auto=format",
   },
   {
     yellow:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Zeta-FL-Jacket-Hyperspace.png?auto=format",
   },
   {
     green:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Zeta-FL-Jacket-Hyperspace.png?auto=format",
   },
   {
     grey:
-      "https://purepng.com/public/uploads/large/purepng.com-orange-jacketgarmentupper-bodyjacketlighterorange-1421526362216wbbfz.png",
+      "https://images-sale-dynamic-arcteryx.imgix.net/F21/450x625/Zeta-FL-Jacket-Hyperspace.png?auto=format",
   },
 ]);
 

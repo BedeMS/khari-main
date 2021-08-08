@@ -93,9 +93,11 @@
   }
 
   // PRODUCT PAGE
-  .product-main {
+  .product-main,
+  .selection-main {
     flex-wrap: wrap;
     overflow-y: auto;
+    padding-bottom: 10rem;
   }
 
   .product__desc,
